@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    
+}
+a{
+color:black;
+
+}
+button{
+    background: #a0c63f ;
+    color: white;
+}
+    header{
+   background: white;
+    }
+    .menu {
+    margin: 0px;
+    float: right;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.menu li {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.logo{
+background: #a0c63f ;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+
+.icon{
+    position: relative;
+    margin: 0px;
+    display: flex;
+}
+
+.mark{
+    padding: 100px;
+}
+
+.porfolio{
+    position: relative;
+    margin: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    
+}
+.porfolio ul{
+    list-style: none;
+
+}
+
+.search{
+    float: right;
+    justify-content: space-evenly;
+}
+  .search2{
+    float: right;
+   margin-top: 0px;
+  }  
+
+footer ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.our { 
+     margin-top: 50px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.our ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.our li {
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.icon2{
+    margin: 10px;
+    
+}
+
+.icon2 ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.icon2 li {
+    display: inline;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+middle{
+    position: relative;
+}
+.up{
+    position: absolute;
+top: 300px;
+}
+footer{
+    float:center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+footer ul{
+list-style: none;  
+  display: inline;
+}
+.bottom1{
+    position: absolute;
+    justify-content: space-around;
+    left: 500px;
+    top:2000px; 
+}
+
+.bottom2{
+    position: absolute;
+    justify-content: space-around;
+    left: 1000px;
+    top:2000px; 
+}
+.bottom3{
+    position: absolute;
+    justify-content: space-around;
+    right: 1px;  
+    top:2000px; 
+}
+.bottom{
+    position: absolute;
+    justify-content: space-around;
+    left: 1px;
+    top:2000px; 
+}
+.bottom ul{
+    list-style: none;
+}
+
